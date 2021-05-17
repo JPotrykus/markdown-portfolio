@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+When the *dog bites,* when the ***bee stings***
+When I'm feeling sad 😢
+I simply remember my **favorite things**
+And then I don't feel so bad 🙂
